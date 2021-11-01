@@ -44,8 +44,6 @@ ${data.description}
 
 ## Installation
 
-What are the steps required to install your project ? Provide a step - by - step description of how to get the development environment running.
-
 ${data.installation}
 
 ## Usage
@@ -63,7 +61,6 @@ ${data.license}
 ## Badges
 
 ${renderLicenseBadge(data.license)}
-
 
 
 ## Features
